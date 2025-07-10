@@ -1,2 +1,2 @@
 # CodSoft1
-Intern
+project
